@@ -1,0 +1,6 @@
+@MenadzerAutomobila.API_HostAddress = http://localhost:5127
+
+GET {{MenadzerAutomobila.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
